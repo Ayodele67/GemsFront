@@ -1,10 +1,7 @@
 
 
 <template>
-<nav>
-    <RouterLink to="/">Home</RouterLink>
-    <RouterLink to="/reg">Reg</RouterLink>
-  </nav>
+
    <main>
     <RouterView />
   </main>
